@@ -3,7 +3,8 @@
   "displayName": "vscode-sounds",
   "publisher": "Ashirwad",
   "description": "Plays sounds on VS Code events.",
-  "version": "0.0.18",
+  "version": "1.0.0",
+  "icon": "logo/128.png",
   "engines": {
     "vscode": "^1.109.0"
   },  "categories": [
